@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Macmac/static/css/main.53d15f2c.css",
+    "main.js": "/Macmac/static/js/main.f69dca0e.js",
+    "static/js/453.0a36081d.chunk.js": "/Macmac/static/js/453.0a36081d.chunk.js",
+    "static/media/loc.gif": "/Macmac/static/media/loc.a3962605d5fb78ed0509.gif",
+    "static/media/mapview.png": "/Macmac/static/media/mapview.3fcc1e2e0169e7a77137.png",
+    "static/media/petpic.jpg": "/Macmac/static/media/petpic.87ff87fdb1381f26db2f.jpg",
+    "index.html": "/Macmac/index.html",
+    "main.53d15f2c.css.map": "/Macmac/static/css/main.53d15f2c.css.map",
+    "main.f69dca0e.js.map": "/Macmac/static/js/main.f69dca0e.js.map",
+    "453.0a36081d.chunk.js.map": "/Macmac/static/js/453.0a36081d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53d15f2c.css",
+    "static/js/main.f69dca0e.js"
+  ]
+}
